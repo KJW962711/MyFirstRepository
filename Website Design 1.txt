@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<body>
+    
+<h1>Weird History Facts</h1>    
+<p>There are so many small facts and details learned from studying history that
+I find fascinating. Facts that seem absurd from a modern perspective. But were
+seemingly reasonable from a contemporary perspective.</p>
+
+<h2>Proto Germ Theory</h2>
+<p>Before modern medicine most societies had a flawed view on treating illness
+and disease. For example, in Ancient Egypt doctors believed that honey was a cure
+all for a myriad of ailments. And in many instances they were correct. Honey is
+a natural antiseptic and could be used to treat burns, wounds and infections. 
+However, it was also ineffective, or even harmful in certain instances. Such as 
+when used for warding away spirits, which was relatively harmless. And when
+treating cavities, which was very harmful and killed many Egyptians!</p>
+<a href="https://the-past.com/feature/magical-honey-some-unusual-uses-in-ancient-egypt/">You can learn more about Ancient Egyptian honey here</a>
+
+<h3>Everyday Poison</h3>
+<p>Throughout history, there have been instances in which using seemingly
+innocuous objects lead to the mass poisoning of entire civilizations. Two 
+examples of this being lead in Imperial Rome and Arsenic in Victorian England. 
+In Imperial Rome, lead was used for wine and food as a sweetener. It was also 
+used for plumbing, construction, cookware, tools, weapons, etc. The widespread
+use of lead in Imperial Rome immensely negatively impacted the health of its 
+citizens. In Victorian England, arsenic was used for dying clothes. It was also
+used for medicine, cosmetics, toys, wallpaper, etc. Arsenic was used extensively
+in Victorian England and was the cause of many deaths and illnesses.</p>
+<a href="https://en.wikipedia.org/wiki/Roman_lead_poisoning_theory">You can learn more about Imperial Roman lead poisoning here</a>
+<a href="https://www.rcseng.ac.uk/library-and-publications/library/blog/arsenic-a-domestic-poison/">And you can learn more about Victorian Arsenic poisoning here</a>
+
+<table>
+<tr>
+<th>Weird History Fact</th>
+<th>Era</th>
+<th>country</th>
+</tr>
+<tr>
+<th>Honey in medicine</th>
+<th>Ancient</th>
+<th>Egypt</th>
+</tr>
+<tr>
+<th>Lead poisoning</th>
+<th>Imperial</th>
+<th>Rome</th>
+</tr>
+<tr>
+<th>Arsenic poisoning</th>
+<th>Victorian</th>
+<th>England</th>
+</tr>
+</table>
+
+</body>    
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<style>
+/* Hello there, */
+body {
+    background-color: darkslateblue;
+}
+
+* {
+    font-family: times;
+}
+
+.heading {
+    color: palegoldenrod;
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+    color: lightgoldenrodyellow;
+    text-indent: 2em;
+    font-size: 20px;
+}
+
+table {
+    margin: 0 auto;
+    width 50%;
+    font-size: 20px;
+    color: lightgoldenrodyellow;
+}
+
+#chart {
+    color:palegoldenrod;
+    font-size: 40px;
+}
+/* General Kenobi.*/
+</style>    
+</head>
+<body>
+    
+<h1 class="heading">Weird History Facts</h1>    
+<p>There are so many small facts and details learned from studying history that
+I find fascinating. Facts that seem absurd from a modern perspective. But were
+seemingly reasonable from a contemporary perspective.</p>
+
+<h2 class="heading">Proto Germ Theory</h2>
+<p>Before modern medicine most societies had a flawed view on treating illness
+and disease. For example, in Ancient Egypt doctors believed that honey was a cure
+all for a myriad of ailments. And in many instances they were correct. Honey is
+a natural antiseptic and could be used to treat burns, wounds and infections. 
+However, it was also ineffective, or even harmful in certain instances. Such as 
+when used for warding away spirits, which was relatively harmless. And when
+treating cavities, which was very harmful and killed many Egyptians!</p>
+
+<h3 class="heading">Everyday Poison</h3>
+<p>Throughout history, there have been instances in which using seemingly
+innocuous objects lead to the mass poisoning of entire civilizations. Two 
+examples of this being lead in Imperial Rome and Arsenic in Victorian England. 
+In Imperial Rome, lead was used for wine and food as a sweetener. It was also 
+used for plumbing, construction, cookware, tools, weapons, etc. The widespread
+use of lead in Imperial Rome immensely negatively impacted the health of its 
+citizens. In Victorian England, arsenic was used for dying clothes. It was also
+used for medicine, cosmetics, toys, wallpaper, etc. Arsenic was used extensively
+in Victorian England and was the cause of many deaths and illnesses.</p>
+
+<table>
+<tr>
+<th id="chart">Weird History Fact</th>
+<th id="chart">Era</th>
+<th id="chart">Country</th>
+</tr>
+<tr>
+ <th></th>
+ <th></th>
+ <th></th>
+</tr>
+<tr>
+<th>Honey In Medicine</th>
+<th>Ancient</th>
+<th>Egypt</th>
+</tr>
+<tr>
+<th>Lead Poisoning</th>
+<th>Imperial</th>
+<th>Rome</th>
+</tr>
+<tr>
+<th>Arsenic Poisoning</th>
+<th>Victorian</th>
+<th>England</th>
+</tr>
+</table>
+
+<a style="margin-left: 2em; margin-right: 2em; background-color: lightgoldenrodyellow; color: darkslateblue; font-size: 20px; opacity: 0.7; text-decoration: none;"
+href="https://the-past.com/feature/magical-honey-some-unusual-uses-in-ancient-egypt/">You can learn more about Ancient Egypt here</a>
+<a style="margin-right: 2em; background-color: lightgoldenrodyellow; color: darkslateblue; font-size: 20px; opacity: 0.7; text-decoration: none;"
+href="https://en.wikipedia.org/wiki/Roman_lead_poisoning_theory">Imperial Rome here</a>
+<a style="background-color: lightgoldenrodyellow; color: darkslateblue; font-size: 20px; opacity: 0.7; text-decoration: none;"
+href="https://www.rcseng.ac.uk/library-and-publications/library/blog/arsenic-a-domestic-poison/">And Victorian England here.</a>
+
+</body>    
+</html>
